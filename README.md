@@ -1,2 +1,2 @@
-##ios
-  first commit project
+##iOS
+  First commit project
